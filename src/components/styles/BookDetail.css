@@ -1,0 +1,36 @@
+.book-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .book-detail img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .book-detail h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .book-detail p {
+    margin-bottom: 20px;
+  }
+  
+  .book-detail a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #61dafb;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .book-detail a:hover {
+    background-color: #4285f4;
+  }
+  
